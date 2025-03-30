@@ -1,3 +1,4 @@
+[2025-03-30 14:20:00] Learned linux terminal basics: tricks, hotkeys, folder navigation
 [2025-03-23 14:20:00] Investigated XRDP keyboard layout issues: .xprofile behavior, layout priority, 
                       RDP login quirks, and fallback tricks. 
 					  Discovered "Cancel" workaround for switching layout on login screen.
