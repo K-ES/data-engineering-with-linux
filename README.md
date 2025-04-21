@@ -1,3 +1,4 @@
+[2025-04-21 04:50:00] Successfully connected to Ubuntu 24.04 via SFTP using MobaXterm after static IP setup and SSH config.
 [2025-04-18 07:40:00] Set up static IP in Ubuntu 24.04 inside VirtualBox using Host-only adapter and netplan;
                       enabled persistent SSH access via PuTTY.
 [2025-03-30 14:20:00] Learned linux terminal basics: tricks, hotkeys, folder navigation
