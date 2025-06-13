@@ -1,3 +1,4 @@
+```
 [2025-04-21 04:50:00] Successfully connected to Ubuntu 24.04 via SFTP using MobaXterm after static IP setup and SSH config.
 [2025-04-18 07:40:00] Set up static IP in Ubuntu 24.04 inside VirtualBox using Host-only adapter and netplan;
                       enabled persistent SSH access via PuTTY.
@@ -8,3 +9,4 @@
 [2025-03-02 06:49:00] Troubleshooting IP address issues
 [2025-02-26 17:33:40] Started learning REG.RU
 [2025-02-09 06:46:40] Repository created for learning Linux.
+```
