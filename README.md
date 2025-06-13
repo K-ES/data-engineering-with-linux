@@ -1,4 +1,5 @@
 ```
+[2025-06-13 19:00:00] Installed Apache Airflow 3.0.2 in Python 3.12 virtual environment on Ubuntu 24.04.
 [2025-04-21 04:50:00] Successfully connected to Ubuntu 24.04 via SFTP using MobaXterm after static IP setup and SSH config.
 [2025-04-18 07:40:00] Set up static IP in Ubuntu 24.04 inside VirtualBox using Host-only adapter and netplan;
                       enabled persistent SSH access via PuTTY.
